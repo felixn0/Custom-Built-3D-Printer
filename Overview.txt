@@ -1,0 +1,11 @@
+Parameters:
+Motion: CoreXY
+Build Volume: 200mm^3
+Frame: Aluminum extrusion
+Motion Guides: Linear Rails
+Extruder: Direct Drive
+Hotend: All metal High Flow
+Bed: Heated with semi-auto levelling
+Firmware: Klipper
+Filament: PLA, PETG, ABS, ASA
+Ideal Speed: 200-300mm/s

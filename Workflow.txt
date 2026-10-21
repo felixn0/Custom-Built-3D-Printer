@@ -1,0 +1,6 @@
+1. Source Parts for extruder, rails, belts, frame, power supply, heat bed, sensors, etc
+2. Design all parts that need to be 3D printed in order to assemble the machine
+3. Configure the firmware (Klipper) and design a UI for the screen
+4. Assemble all hardware and wire all electronics together
+5. Calibrate the machine to make sure all systems work properly
+6. Print a benchy!!

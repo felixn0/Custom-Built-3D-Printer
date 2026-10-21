@@ -9,4 +9,4 @@ Bed: Heated with semi-auto levelling
 Firmware: Klipper
 Filament: PLA, PETG, ABS, ASA
 Ideal Speed: 200-300mm/s
-Motors: 9 Degree Steppers (2XY, 3Z)
+Motors: 0.9 Degree Steppers (2XY, 3Z)
